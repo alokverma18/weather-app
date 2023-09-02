@@ -1,4 +1,4 @@
-# Weather App
+# Weather App 🌦️
 
 ## Introduction
 
@@ -15,7 +15,7 @@ This is a simple web-based weather application that allows users to check the we
 
 ## Demo
 
-Try this [Weather App]() 
+Try this [Weather App](https://alokverma18.github.io/weather-app/) 
 
 
 ## Dependencies
