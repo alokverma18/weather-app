@@ -13,6 +13,9 @@ This is a simple web-based weather application that allows users to check the we
 - Error message for Invalid city names.
 - Dynamic Background 
 
+
+## Snap
+![snap](images/weather.png)
 ## Demo
 
 Try this [Weather App](https://alokverma18.github.io/weather-app/) 
