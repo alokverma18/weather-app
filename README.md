@@ -27,7 +27,7 @@ This application uses the OpenWeatherMap API to fetch weather data. You'll need 
 
 
 ## Contributing
-Feel free to Contribute and Improve this GPA Calculator by creating a Pull Request or an Issue.
+Feel free to Contribute and Improve this by creating a Pull Request or an Issue.
 
 
 ## Connect 
